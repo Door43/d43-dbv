@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dbv:home|Door43 (dbv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dbv|d43-dbv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dbv/archive/master.zip|d43-dbv.zip]]
+
+**Recent Changes**
+{{changes>ns = dbv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dbv|Ethnologue data]]
+
